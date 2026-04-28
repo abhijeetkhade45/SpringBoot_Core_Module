@@ -1,0 +1,28 @@
+employee:
+  info:
+    empName: Abhijeet Khade
+    deptNo: 34500
+    empAge: 23
+    empSlary: 56000.00   # ⚠️ spelling must match Java
+
+    empDutyDay:
+      - 23
+      - 32
+      - 56
+      - 45
+
+    empAttendanceList:
+      - 45
+      - 34
+      - 23
+      - 78
+
+    empPersonalInfo:
+      BirthName: Yogesh
+      ExGf: 05
+      Interest: Walking
+
+    empFamily:
+      familySize: 4
+      houseAddress: Amravati
+      pinCode: 444708
