@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ntspbms618db
+    username: root
+    password: Abhi@93076
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type : com.mchange.v2.c3p0.ComboPooledDataSource
